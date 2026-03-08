@@ -1,4 +1,4 @@
-#  Projesi
+# Sakarya Üniversitesi Web Teknolojileri Proje Ödevi
 
 Merhaba, bu proje Web Teknolojileri dersi ödevim için geliştirdiğim, film, dizi ve kitapları listeleyebileceğimiz interaktif bir web uygulamasıdır.
 
